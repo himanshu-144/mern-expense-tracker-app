@@ -12,8 +12,8 @@ Clone the repository:
 
 
 Create a .env file in the root directory for the backend and add the following keys:
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
+MONGO_URI=mongodb+srv://himanshu144g:himanshu@cluster0.8tz47.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+JWT_SECRET=himanshu14042000gachake
 
 
 Then run a "npm run build" command for installing packages for client and server
